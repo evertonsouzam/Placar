@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Futebol Soccer!!!</string>
+    <string name="desenvolvido_por">Desenvolvido por Everton Mendes</string>
+    <string name="time_da_casa">Time da casa</string>
+    <string name="hint_time_casa">Informe o nome do time da casa</string>
+    <string name="time_visitante">Time visitante</string>
+    <string name="hint_time_visitante">Informe o nome do time visitante</string>
+
+
+</resources>
