@@ -50,13 +50,13 @@
         android:orientation="horizontal">
 
         <Button
-            android:text="GOL"
+            android:text="@string/gol"
             style="@style/elemento_placar"
             android:id="@+id/btGolCasa"
             android:onClick="golCasa" />
 
         <Button
-            android:text="GOL"
+            android:text="@string/gol"
             style="@style/elemento_placar"
             android:onClick="golVisitante" />
 

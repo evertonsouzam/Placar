@@ -1,10 +1,15 @@
 <resources>
     <string name="app_name">Futebol Soccer!!!</string>
-    <string name="desenvolvido_por">Desenvolvido por Everton Mendes</string>
-    <string name="time_da_casa">Time da casa</string>
-    <string name="hint_time_casa">Informe o nome do time da casa</string>
-    <string name="time_visitante">Time visitante</string>
-    <string name="hint_time_visitante">Informe o nome do time visitante</string>
+    <string name="desenvolvido_por">Developer by Everton Mendes</string>
+    <string name="time_da_casa">Home</string>
+    <string name="hint_time_casa">Enter the name of the home team</string>
+    <string name="hint_time_visitante">Enter the name of the away team</string>
+    <string name="time_visitante">Away</string>
+    <string name="iniciar_jogo">Start Game!</string>
+    <string name="gol">GOAL</string>
+    <string name="informe_seu_login">Enter your login</string>
+    <string name="conectar">Connect</string>
+    <string name="informe_sua_senha">Enter your password</string>
 
 
 </resources>

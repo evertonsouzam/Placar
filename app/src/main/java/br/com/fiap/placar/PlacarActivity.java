@@ -32,7 +32,7 @@ public class PlacarActivity extends AppCompatActivity {
 
         if (savedInstanceState != null){
             golCasa = (savedInstanceState.getInt("GOLCASA"));
-            golVisitante= (savedInstanceState.getInt("GOLVISITANTE"));
+            golVisitante = (savedInstanceState.getInt("GOLVISITANTE"));
 
         }
 
@@ -52,8 +52,8 @@ public class PlacarActivity extends AppCompatActivity {
     }
 
     @Override
-    public void onSaveInstanceState(Bundle outState, PersistableBundle outPersistentState) {
-        super.onSaveInstanceState(outState, outPersistentState);
+    public void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
         outState.putInt("GOLCASA", golCasa);
         outState.putInt("GOLVISITANTE", golVisitante);
     }
